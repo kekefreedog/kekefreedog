@@ -2,7 +2,7 @@
 - 👀 I’m interested in vfx and postproduction industry.
 - 🌱 I’m currently working on private web applications.
 - 💞️ I’m looking to collaborate with post-producers, talent-scooting or vfx coordinators.
-- 📫 How to reach me contact me by linkedin or email !
+- 📫 Feel free to contact me by linkedin or by email !
 
 <!---
 kekefreedog/kekefreedog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
